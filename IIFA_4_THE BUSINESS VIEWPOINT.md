@@ -6,7 +6,7 @@ Business-oriented concerns such as value proposition, expected return on investm
 商业化的问题，如价值主张，投资预期收益，维护和产品责任成本必须考虑的工业互联网系统作为解决业务问题的时候进行评估。为了识别，评估和解决这些企业的关注，我们介绍了一些概念和定义的关系，他们之间，如图4-1所示。
 
 [^6]:This approach is based on the work, An IoT Experience Framework (IoTEF), presented to the Industrial Internet Consortium by Intel Corporation and the Business Motivation Model (BMM) [24] by the Object Management Group (OMG), consistent with best practices in this domain. Some of the terminology has been changed to be consistent with the ISO/IEC/IEEE 42010:2011.
-![](./IISs/QQ20160114-2.png)
+![](./IIFA_pic/QQ20160114-2.png)
 
 Stakeholders have a major stake in the business and strong influence in its direction. They include those who drive the conception and development of IISs in an organization. They are often recognized as key strategic thinkers and visionaries within a company or an industry. It is important to identify these key stakeholders and engage them early in the process of evaluating these business-oriented concerns.利益相关者有重大利害关系的商业和强大的影响力在它的方向。它们包括那些谁开车伦敦国际战略研究所的概念和发展的组织。他们通常被认为是一个公司或一个行业内重要的战略思想家和梦想家。重要的是要找出这些关键利益相关者和评估这些面向企业的关注过程的早期搞起来是很重要的。
 Vision describes a future state of an organization or an industry.[^7] It provides the business direction toward which an organization executes. Senior business stakeholders usually develop and present an organization’s vision.

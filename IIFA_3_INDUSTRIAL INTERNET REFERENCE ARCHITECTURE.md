@@ -13,7 +13,7 @@ The term concern refers to any topic of interest pertaining to the system. A sta
 
 >Example: Suppose we want to address the concerns of what the functional subsystems are,across what interfaces they interact and how they interact to realize the desired system behaviors. A functional decomposition of the system can make each of the subsystems easier to conceive, understand, design, implement, reuse and maintain. A component diagram may be used to describe structure of the subsystems and their interfaces, sequence diagrams the way in which the subsystems interact, and state diagrams the way in which the system or one of its subsystems behaves in response to external events. These diagrams and their associated documentation collectively describe and address the concerns of thefunctional viewpoint.例如：假设我们要解决什么样的功能子系统有关心的问题，横跨哪些接口它们相互作用，以及他们如何交互以实现所期望的系统行为。该系统的功能分解可以使每一个容易的子系统想象，理解，设计，实施，再利用和维护。组件图可以用来形容子系统及其接口的结构，序列图中，各子系统之间的交互方式，以及状态图中的系统或它的子系统的行为响应外部事件的方式。这些图表及其相关文件共同描述和处理功能的观点的关注。
 
-![](./IISs/QQ20160114-0.png)
+![](./IIFA_pic/QQ20160114-0.png)
 
 ### 3.2 INDUSTRIAL INTERNET VIEWPOINTS
 ### 3.2 工业互联网观点
@@ -27,7 +27,7 @@ The various concerns of an IIS are classified and grouped together as four viewp
 
 As shown in Figure 3-2, these four viewpoints form the basis for a detailed viewpoint-by- viewpoint analysis of individual sets of Industrial Internet System concerns.
 如图3-2所示，这四个观点形成的基础，工业互联网体系的担忧各组的详细观点逐角度的分析。
-![](./IISs/QQ20160114-1.png)
+![](./IIFA_pic/QQ20160114-1.png)
 
 The Business Viewpoint attends to the concerns of the identification of stakeholders and their business vision, values and objectives in establishing an IIS in its business and regulatory context. It further identifies how the IIS achieves the stated objectives through its mapping to fundamental system capabilities.
 业务视点照顾到利益相关者的识别目标，在业务和管理方面建立IIS的关注，他们的业务愿景，价值观和。它进一步明确了如何在IIS通过其映射到基本的系统功能，实现了既定目标。
